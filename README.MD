@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    O podcast gerado é na área de finanças, cujo objetivo é dar dicas de economia e investimentos.
 </p>
 
 <div align="center">
