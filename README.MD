@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="https://github.com/edson85ss/podcast_com_ia/tree/main/output/DIO_podcast_GranaNoPapo.mp3" controls title="Podcast final">Play</audio>
+    <audio src="./output/DIO_podcast_GranaNoPapo.mp3" controls title="Podcast final"></audio>
 </div>
 
 # Projeto Podcast Gerado com I.A.s no Treinamento da DIO
