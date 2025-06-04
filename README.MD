@@ -76,19 +76,15 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <p>&nbsp&nbsp&nbspEdson Souza<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/edson85ss">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="www.linkedin.com/in/edson-silva-15871641">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
     &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
