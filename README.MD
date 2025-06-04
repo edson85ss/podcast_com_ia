@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/DIO_podcast_GranaNoPapo.mp3" controls title="Podcast final"></audio>
+    <audio src="./output/DIO_podcast_GranaNoPapo.mp3" controls title="Podcast final"></audio>
 </div>
 
 # Projeto Podcast Gerado com I.A.s no Treinamento da DIO
